@@ -5,7 +5,6 @@ Soy Juliana Argaez Cartagena, una tecnóloga en análisis y desarrollo de sistem
 
 ## 👀 Áreas de Interés
 - Desarrollo Frontend 🌐
-- Desarrollo Web 🖥️
 - Trabajo en Equipo 🤝
 - Aprendizaje Continuo 📚
 
@@ -21,7 +20,6 @@ I'm Juliana Argaez Cartagena, a technologist in analysis and development of info
 
 ## 👀 Areas of Interest
 - Frontend Development 🌐
-- Web Development 🖥️
 - Teamwork 🤝
 - Continuous Learning 📚
 

@@ -44,4 +44,4 @@
  
 
 ## Contact
-💙 **LinkedIn:** [Juliana Argaez Cartagena on LinkedIn](www.linkedin.com/in/juliana-argaez-frontend-dev)
+💙 **LinkedIn:** [Juliana Argaez Cartagena on LinkedIn](https://www.linkedin.com/in/juliana-argaez-frontend-dev/)
